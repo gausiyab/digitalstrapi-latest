@@ -28,5 +28,3 @@ export default [
   'strapi::favicon',
   'strapi::public',
 ];
-
-// gigi
